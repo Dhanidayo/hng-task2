@@ -1,0 +1,16 @@
+C:\Users\lenovo\Dropbox\My PC (DESKTOP-0CQ3F2P)\Documents\HNGINTERNSHIP\MyConsole\bin\Debug\net5.0\MyConsole.exe
+C:\Users\lenovo\Dropbox\My PC (DESKTOP-0CQ3F2P)\Documents\HNGINTERNSHIP\MyConsole\bin\Debug\net5.0\MyConsole.deps.json
+C:\Users\lenovo\Dropbox\My PC (DESKTOP-0CQ3F2P)\Documents\HNGINTERNSHIP\MyConsole\bin\Debug\net5.0\MyConsole.runtimeconfig.json
+C:\Users\lenovo\Dropbox\My PC (DESKTOP-0CQ3F2P)\Documents\HNGINTERNSHIP\MyConsole\bin\Debug\net5.0\MyConsole.runtimeconfig.dev.json
+C:\Users\lenovo\Dropbox\My PC (DESKTOP-0CQ3F2P)\Documents\HNGINTERNSHIP\MyConsole\bin\Debug\net5.0\MyConsole.dll
+C:\Users\lenovo\Dropbox\My PC (DESKTOP-0CQ3F2P)\Documents\HNGINTERNSHIP\MyConsole\bin\Debug\net5.0\ref\MyConsole.dll
+C:\Users\lenovo\Dropbox\My PC (DESKTOP-0CQ3F2P)\Documents\HNGINTERNSHIP\MyConsole\bin\Debug\net5.0\MyConsole.pdb
+C:\Users\lenovo\Dropbox\My PC (DESKTOP-0CQ3F2P)\Documents\HNGINTERNSHIP\MyConsole\obj\Debug\net5.0\MyConsole.csproj.AssemblyReference.cache
+C:\Users\lenovo\Dropbox\My PC (DESKTOP-0CQ3F2P)\Documents\HNGINTERNSHIP\MyConsole\obj\Debug\net5.0\MyConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Dropbox\My PC (DESKTOP-0CQ3F2P)\Documents\HNGINTERNSHIP\MyConsole\obj\Debug\net5.0\MyConsole.AssemblyInfoInputs.cache
+C:\Users\lenovo\Dropbox\My PC (DESKTOP-0CQ3F2P)\Documents\HNGINTERNSHIP\MyConsole\obj\Debug\net5.0\MyConsole.AssemblyInfo.cs
+C:\Users\lenovo\Dropbox\My PC (DESKTOP-0CQ3F2P)\Documents\HNGINTERNSHIP\MyConsole\obj\Debug\net5.0\MyConsole.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Dropbox\My PC (DESKTOP-0CQ3F2P)\Documents\HNGINTERNSHIP\MyConsole\obj\Debug\net5.0\MyConsole.dll
+C:\Users\lenovo\Dropbox\My PC (DESKTOP-0CQ3F2P)\Documents\HNGINTERNSHIP\MyConsole\obj\Debug\net5.0\ref\MyConsole.dll
+C:\Users\lenovo\Dropbox\My PC (DESKTOP-0CQ3F2P)\Documents\HNGINTERNSHIP\MyConsole\obj\Debug\net5.0\MyConsole.pdb
+C:\Users\lenovo\Dropbox\My PC (DESKTOP-0CQ3F2P)\Documents\HNGINTERNSHIP\MyConsole\obj\Debug\net5.0\MyConsole.genruntimeconfig.cache
